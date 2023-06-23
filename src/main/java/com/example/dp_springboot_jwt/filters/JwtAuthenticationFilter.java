@@ -1,5 +1,6 @@
-package com.example.dp_springboot_jwt.config;
+package com.example.dp_springboot_jwt.filters;
 
+import com.example.dp_springboot_jwt.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,4 +1,4 @@
-package com.example.dp_springboot_jwt.config;
+package com.example.dp_springboot_jwt.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
