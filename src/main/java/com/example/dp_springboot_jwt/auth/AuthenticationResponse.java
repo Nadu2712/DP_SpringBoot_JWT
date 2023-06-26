@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 
 import java.security.cert.CertPathBuilder;
 
-@Data
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
