@@ -1,4 +1,4 @@
-package com.example.dp_springboot_jwt.auth;
+package com.example.dp_springboot_jwt.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

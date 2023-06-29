@@ -1,8 +1,8 @@
 package com.example.dp_springboot_jwt.controller;
 
-import com.example.dp_springboot_jwt.auth.AuthenticationRequest;
-import com.example.dp_springboot_jwt.auth.AuthenticationResponse;
-import com.example.dp_springboot_jwt.auth.RegisterRequest;
+import com.example.dp_springboot_jwt.dto.AuthenticationRequest;
+import com.example.dp_springboot_jwt.dto.AuthenticationResponse;
+import com.example.dp_springboot_jwt.dto.RegisterRequest;
 import com.example.dp_springboot_jwt.service.AuthenticationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

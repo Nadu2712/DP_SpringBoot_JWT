@@ -1,10 +1,10 @@
 package com.example.dp_springboot_jwt.service;
 
-import com.example.dp_springboot_jwt.auth.AuthenticationRequest;
-import com.example.dp_springboot_jwt.auth.AuthenticationResponse;
-import com.example.dp_springboot_jwt.auth.RegisterRequest;
-import com.example.dp_springboot_jwt.user.Role;
-import com.example.dp_springboot_jwt.user.User;
+import com.example.dp_springboot_jwt.dto.AuthenticationRequest;
+import com.example.dp_springboot_jwt.dto.AuthenticationResponse;
+import com.example.dp_springboot_jwt.dto.RegisterRequest;
+import com.example.dp_springboot_jwt.entity.Role;
+import com.example.dp_springboot_jwt.entity.User;
 import com.example.dp_springboot_jwt.repo.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;

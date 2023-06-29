@@ -1,6 +1,6 @@
-package com.example.dp_springboot_jwt.auth;
+package com.example.dp_springboot_jwt.dto;
 
-import com.example.dp_springboot_jwt.user.Role;
+import com.example.dp_springboot_jwt.entity.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

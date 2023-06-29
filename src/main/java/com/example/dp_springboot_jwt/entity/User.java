@@ -1,4 +1,4 @@
-package com.example.dp_springboot_jwt.user;
+package com.example.dp_springboot_jwt.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
